@@ -1,6 +1,6 @@
 # Hello! Welcome to my GitHub! 🚀🚀
 ### 🙋‍♂️ Self Introduction
-My name is Lin-Yung Hsieh, currently studying Electrical Engineering in National Tsing Hua University. 
+My name is Leo Hsieh, currently studying Electrical Engineering in National Tsing Hua University. 
 <br />
 I am interested in software engineering, and my [undergraduate research](https://github.com/LeoTheBestCoder/active_learning) mainly focuses on CV (computer vision). 
 
