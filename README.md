@@ -18,8 +18,8 @@ I am interested in software engineering, and my [undergraduate research](https:/
 * [Email](mailto:leoshieh0hn@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/linyunghsieh/)
 
-![Leo Hsieh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leothebestcoder&theme=gruvbox)
+![Leo Hsieh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leothebestcoder&theme=vision-friendly-dark)
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leothebestcoder&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leothebestcoder&layout=compact&theme=vision-friendly-dark)
 
