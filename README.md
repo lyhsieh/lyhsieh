@@ -1,6 +1,6 @@
 # Hello! Welcome to my GitHub! 🚀🚀
 ### 🙋‍♂️ Self Introduction
-My name is Lin-Yung Hsieh, currently studying electrical engineering in National Tsing Hua University. 
+My name is Lin-Yung Hsieh, currently studying Electrical Engineering in National Tsing Hua University. 
 <br />
 I am interested in software engineering, and my [undergraduate research](https://github.com/LeoTheBestCoder/active_learning) mainly focuses on CV (computer vision). 
 
@@ -12,10 +12,8 @@ I am interested in software engineering, and my [undergraduate research](https:/
 
 ### 📝 Related Documents
 * [My Resume](https://drive.google.com/file/d/1wada6UIomghnOl_jvzcuKX5aBxwmY-V3/view?usp=sharing)
-* [Abstract of My Undergraduate Research](https://drive.google.com/file/d/1_bzX01EOcB5Ui8ig4DcBHS12iGtBMZxf/view?usp=sharing)
+* [Abstract of my Undergraduate Research](https://drive.google.com/file/d/1_bzX01EOcB5Ui8ig4DcBHS12iGtBMZxf/view?usp=sharing)
 
 ### 📞 Contact Me
-* [email](mailto:leoshieh0hn@gmail.com)
+* [Email](mailto:leoshieh0hn@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/linyunghsieh/)
-
-### Tools
