@@ -4,7 +4,7 @@ My name is Lin-Yung Hsieh (謝霖泳), currently studying electrical engineering
 <br />
 ### 💻 Experience
 * Internship as a software engineer at [ITRI](https://www.itri.org.tw/)
-* Won the [**FIRST PLACE**](https://www.hccg.gov.tw/ch/home.jsp?id=48&parentpath=&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202010250004&t=MunicipalNews&mserno=201601300020) in [MeiChu Hackathon Competition 2020](https://github.com/LeoTheBestCoder/Meichu2020_Team_726))
+* Won the [**FIRST PLACE**](https://www.hccg.gov.tw/ch/home.jsp?id=48&parentpath=&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202010250004&t=MunicipalNews&mserno=201601300020) in [MeiChu Hackathon Competition 2020](https://github.com/LeoTheBestCoder/Meichu2020_Team_726)
 * Teaching Assistant in [EE2405: Embedded System Laboratory](https://www.ee.nthu.edu.tw/ee240500/) (Instructor: Prof. Jing-Jia Liou)
 * Undergraduate student of NTHU [VSLab](https://aliensunmin.github.io/lab/info.html) (Instructor: Prof. Min Sun)
 
