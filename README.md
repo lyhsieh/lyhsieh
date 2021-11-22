@@ -2,7 +2,7 @@
 ### 🙋‍♂️ Self Introduction
 My name is Lin-Yung Hsieh, currently studying electrical engineering in National Tsing Hua University. 
 <br />
-I am interested in sofeware engineering, and my [undergraduate research](https://github.com/LeoTheBestCoder/active_learning) mainly focuses on CV (computer vision). 
+I am interested in software engineering, and my [undergraduate research](https://github.com/LeoTheBestCoder/active_learning) mainly focuses on CV (computer vision). 
 
 ### 💻 Experience
 * Internship as a software engineer at [ITRI](https://www.itri.org.tw/) ICL
