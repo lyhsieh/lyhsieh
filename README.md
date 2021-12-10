@@ -23,6 +23,7 @@ I am interested in software engineering, and my [undergraduate research](https:/
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTheBestCoder&layout=compact&theme=vision-friendly-dark)
 
-<font size=2 face="標楷體">看 還看？快去幫我的repo按星星啊XD
+<!-- <font size=2 face="標楷體">看 還看？快去幫我的repo按星星啊XD
 </br >
-喜歡我的話歡迎追蹤我，才不會錯過最新的code喔😍
+喜歡我的話歡迎追蹤我，才不會錯過最新的code喔😍 -->
+
