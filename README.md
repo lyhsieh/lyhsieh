@@ -20,12 +20,11 @@ I am interested in software engineering, and my [undergraduate research](https:/
 
 ![Leo Hsieh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoTheBestCoder&theme=vision-friendly-dark)
 <br />
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTheBestCoder&layout=compact&theme=vision-friendly-dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTheBestCoder&layout=compact&theme=vision-friendly-dark) -->
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoTheBestCoder&theme=github_dark)
 
 <!-- <font size=2 face="標楷體">看 還看？快去幫我的repo按星星啊XD
 </br >
 喜歡我的話歡迎追蹤我，才不會錯過最新的code喔😍 -->
-
-
 
