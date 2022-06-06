@@ -24,10 +24,10 @@ I am interested in software engineering, and my [undergraduate research](https:/
 * [Email](mailto:leoshieh0hn@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/linyunghsieh/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoTheBestCoder&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leothebestcoder&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoTheBestCoder&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoTheBestCoder&theme=github_dark)
 
 <!-- <font size=2>看 還看？快去幫我的repo按星星啊XD
 </br >
