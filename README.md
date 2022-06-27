@@ -8,7 +8,7 @@
 ## 🙋‍♂️ Self Introduction
 My name is Leo, currently studying Electrical Engineering in National Tsing Hua University. 
 <br />
-I am interested in software engineering, and my [undergraduate research](https://github.com/LeoTheBestCoder/active_learning) mainly focuses on CV (computer vision). 
+I am interested in computer science, and my [undergraduate research](https://github.com/LeoTheBestCoder/active_learning) mainly focuses on CV (computer vision). 
 
 ## 💻 Experience
 * Internship as a software engineer at [ITRI](https://www.itri.org.tw/) ICL
