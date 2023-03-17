@@ -17,7 +17,7 @@ I am interested in computer science, and my [undergraduate research](https://git
 * Undergraduate student of NTHU [VSLab](https://aliensunmin.github.io/lab/info.html) (Instructor: Prof. [Min Sun](https://scholar.google.com/citations?user=1Rf6sGcAAAAJ&hl=zh-TW))
 
 ## 📝 Related Documents
-* [My Resume](https://drive.google.com/file/d/1wada6UIomghnOl_jvzcuKX5aBxwmY-V3/view?usp=sharing)
+* [My Resume](https://drive.google.com/file/d/1mNIyrlPWrwiEiGLUK2_9ivM4nWXgUDNg/view?usp=sharing)
 * [Abstract of my Undergraduate Research](https://drive.google.com/file/d/1_bzX01EOcB5Ui8ig4DcBHS12iGtBMZxf/view?usp=sharing)
 
 ## 📞 Contact Me
