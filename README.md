@@ -18,7 +18,7 @@ My research focuses on computer vision and deep learning.
 
 ## 📝 To Learn More about Me...
 * [My website](https://lyhsieh.github.io/)
-* [Resume](https://drive.google.com/file/d/1kNcnXE5uqj1pJsECy_8sl_9fSrMxer5V/view?usp=sharing)
+* [Resume](https://drive.google.com/file/d/1TDfBpCfavVuh__fjavkYpRxSvf345Ikq/view?usp=sharing)
 * [Publications](https://lyhsieh.github.io/publications/)
 
 ## 📞 Contact Me
